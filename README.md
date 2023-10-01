@@ -16,6 +16,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Naval-surange.Naval-surange)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNaval-surange%2FNaval-surange%2Fblob%2Fmain%2FREADME.md&countColor=%23263759)
+
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FNaval-surange%2FNaval-surange%2Fblob%2Fmain%2FREADME.md"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNaval-surange%2FNaval-surange%2Fblob%2Fmain%2FREADME.md&countColor=%23263759" /></a>
+
 <br />
 
 hi, i'm [Naval Surange](https://researchweb.iiit.ac.in/~naval.s/html/index.html), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
