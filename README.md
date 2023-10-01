@@ -3,13 +3,13 @@
 <a href="https://discordapp.com/users/757609116675080192">
 <!--   <img align="left" alt="Naval's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
   <img width="50" height="50" src="https://img.icons8.com/ios/50/discord-logo--v1.png" alt="discord-logo--v1"/> -->
-  <img align="left" width="22px" src="https://img.icons8.com/color/48/discord-logo.png" alt="discord-logo"/>
+  <img align="left" width="34px" src="https://img.icons8.com/color/48/discord-logo.png" alt="discord-logo"/>
 
 
 </a>
 <a href="https://www.linkedin.com/in/naval-surange-42a710203/">
 <!--   <img align="left" alt="Naval's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> -->
-  <img align="left" width="22px"  src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>
+  <img align="left" width="34px"  src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Naval-surange.Naval-surange)
