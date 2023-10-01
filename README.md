@@ -7,7 +7,10 @@
 
 </a>
 <a href="https://www.linkedin.com/in/naval-surange-42a710203/">
-  <img align="left" alt="Naval's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<!--   <img align="left" alt="Naval's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> -->
+  <img align="left" width="22px"  src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>
+
+
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Naval-surange.Naval-surange)
