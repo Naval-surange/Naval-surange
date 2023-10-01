@@ -1,5 +1,4 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-### Hey there ![Hello](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
 <a href="https://discordapp.com/users/757609116675080192">
 <!--   <img align="left" alt="Naval's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
