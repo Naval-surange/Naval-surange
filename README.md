@@ -17,7 +17,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=Naval-surange.Naval-surange)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNaval-surange%2FNaval-surange%2Fblob%2Fmain%2FREADME.md&countColor=%23263759)
 
-<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FNaval-surange%2FNaval-surange%2Fblob%2Fmain%2FREADME.md"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNaval-surange%2FNaval-surange%2Fblob%2Fmain%2FREADME.md&countColor=%23263759" /></a>
+
 
 <br />
 
